@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+.main{
+    height: 80px;
+    width: 80px;
+}
+
+.btn{
+    height: 60px;
+    width: 60px;
+}
+
+.start{
+    margin-top: 200px;
+    height: 60px;
+    width: 500px;
+}
